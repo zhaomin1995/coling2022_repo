@@ -1,5 +1,4 @@
-Are People Located in the Places They Mention in Their Tweets? 
-A Multimodal Approach
+# Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach
 
 ## Requirements
 python 3.6 \

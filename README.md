@@ -1,5 +1,9 @@
 # Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach
 
+This repository will contain the corpus of the COLING 2022 paper 
+"Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach"  
+Authors: Zhaomin Xiao and Eduardo Blanco
+
 ## Requirements
 python 3.6 \
 Python packages: list of packages are provided in env_setup/requirements.txt file. \
@@ -69,6 +73,3 @@ If you want to use the corpus, please cite the paper below. (To be polished)
 }
 ```
 
-This repository will contain the corpus of the COLING 2022 paper 
-"Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach"  
-Authors: Zhaomin Xiao and Eduardo Blanco

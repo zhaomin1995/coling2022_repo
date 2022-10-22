@@ -56,20 +56,20 @@ If you have any questions about the paper and code&data, please contact me via e
   
 ## Citation
 
-If you want to use the corpus, please cite the paper below. (To be polished)
+If you want to use the corpus, please cite the paper below.
 ```bibtex
-@inproceedings{,
+@inproceedings{xiao-blanco-2022-people,
     title = "Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach",
-    author = "Xiao, Zhaomin and
+    author = "Xiao, Zhaomin  and
       Blanco, Eduardo",
     booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
     month = oct,
     year = "2022",
-    address = "",
-    publisher = "Association for Computational Linguistics",
-    url = "",
-    pages = "",
-    abstract = "",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.226",
+    pages = "2561--2571",
+    abstract = "This paper introduces the problem of determining whether people are located in the places they mention in their tweets. In particular, we investigate the role of text and images to solve this challenging problem. We present a new corpus of tweets that contain both text and images. Our analyses show that this problem is multimodal at its core: human judgments depend on whether annotators have access to the text, the image, or both. Experimental results show that a neural architecture that combines both modalities yields better results. We also conduct an error analysis to provide insights into why and when each modality is beneficial.",
 }
 ```
 
